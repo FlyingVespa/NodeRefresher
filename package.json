@@ -1,0 +1,25 @@
+{
+  "name": "noderefresher",
+  "version": "1.0.0",
+  "description": "udumy course on Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server.js",
+    "dev": "nodemon -r dotenv/config -e js src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlyingVespa/NodeRefresher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlyingVespa/NodeRefresher/issues"
+  },
+  "homepage": "https://github.com/FlyingVespa/NodeRefresher#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
