@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/FlyingVespa/NodeRefresher#readme",
   "dependencies": {
-    "nodemon": "^3.0.1"
+    "nodemon": "^3.0.1",
+    "slugify": "^1.6.6"
   }
 }

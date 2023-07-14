@@ -1,0 +1,7 @@
+{
+  "files.autoGuessEncoding": true,
+  "editor.formatOnSave": true,
+  "diffEditor.experimental.collapseUnchangedRegions": true,
+  "diffEditor.codeLens": true,
+  "editor.minimap.maxColumn": 200
+}
